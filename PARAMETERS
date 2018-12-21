@@ -1,0 +1,5 @@
+RSuiteVersion: 0.34.249
+RVersion: 3.5
+Project: m2-price-estimator
+Repositories: MRAN[2018-12-21]
+Artifacts: config_templ.txt
