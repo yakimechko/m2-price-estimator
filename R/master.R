@@ -16,3 +16,5 @@ source(file.path(script_path, "set_env.R"), chdir = T)
 
 config <- load_config()
 args <- args_parser()
+
+print("Project initialized")
